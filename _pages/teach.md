@@ -10,7 +10,7 @@ ACTSC 231 – Introductory Financial Mathematics (Fall 2025)
   * The theory of rates of interest and discount including the theoretical continuous case of forces of interest and discount. Annuities and sinking funds, including the continuous case. Practical and theoretical applications primarily to mortgages and bonds. Yield rates. Immunization (Duration, Convexity).
  
 <br>
-      
+
 <h2>Teaching Assistant, University of Waterloo</h2>
 
 Supported undergraduate and graduate courses in actuarial science, finance, statistics, and risk management, including:
