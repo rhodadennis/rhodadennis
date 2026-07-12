@@ -26,7 +26,7 @@ author:
   avatar           : "profile_pic"
   name             : "Rhoda Dennis"
   pronouns         : "she/her"  
-  bio              : "PhD Candidate in Actuarial Science and Quantitative Finance"
+  bio              : #"PhD Candidate in Actuarial Science and Quantitative Finance"
   location         : "Waterloo, ON"
   employer         : "University of Waterloo"
   uri              : # URL
