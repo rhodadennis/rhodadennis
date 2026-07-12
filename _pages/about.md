@@ -7,14 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Actuarial Science and Quantitative Finance at the University of Waterloo, supervised by [Professor Emerita Mary Hardy](https://uwaterloo.ca/statistics-and-actuarial-science/profiles/mary-hardy) and [Professor Ben Feng](https://uwaterloo.ca/statistics-and-actuarial-science/profiles/ben-feng). My research explores the intersection of climate change and financial markets, focusing on climate risk, sustainable investing, and pension system resilience.
+My current research focuses on developing mathematical and computational models for financial decision-making under uncertainty, with applications in quantitative finance, actuarial science, and risk management. I am particularly interested in stochastic modelling, portfolio optimization, and asset allocation problems involving structural changes, evolving risks, and long-term investment horizons.
 
-I’m particularly interested in how climate risks shape investment performance, pension outcomes, and long-term financial planning. Much of my work involves building models that help us understand these relationships and designing strategies that make financial systems more resilient in a changing climate. What motivates me most is the practical side of this work: helping investors, pension funds, and policymakers make informed decisions in an era where climate uncertainty is becoming the norm.
+A key theme of my work is understanding how emerging risks, including climate transition and physical risks, affect financial markets, investment decisions, and pension outcomes. I combine methods from stochastic processes, statistical modelling, optimization, and quantitative finance to develop robust strategies and decision frameworks for investors, pension funds, and financial institutions operating in uncertain environments.
 
-Teaching and mentorship are also important parts of who I am. I enjoy working with students, helping them build confidence, and creating supportive and inclusive learning spaces; especially in fields where many students might feel underrepresented or intimidated.
+I completed my Ph.D. in Actuarial Science and Quantitative Finance at the University of Waterloo, where I was supervised by [Professor Emerita Mary Hardy](https://uwaterloo.ca/statistics-and-actuarial-science/profiles/mary-hardy) and [Professor Ben Feng](https://uwaterloo.ca/statistics-and-actuarial-science/profiles/ben-feng). 
+Prior to my doctoral studies, I earned a Master of Science in Quantitative Finance from Lancaster University, UK, working under [Professor Mark Shackelton](https://www.lancaster.ac.uk/lums/people/mark-shackleton), and a Bachelor of Science in Actuarial Science from the University of Ghana, Legon under the supervision of [Professor Louis Asiedu](https://www.ug.edu.gh/statistics/people/prof-louis-asiedu).
 
-Prior to my doctoral studies, I earned a Master of Science in Quantitative Finance from Lancaster University, UK, working under [Professor Mark Shackelton](https://www.lancaster.ac.uk/lums/people/mark-shackleton). I began my academic journey with a Bachelor of Science in Actuarial Science from the University of Ghana, Legon under the supervision of [Professor Louis Asiedu](https://www.ug.edu.gh/statistics/people/prof-louis-asiedu).
+Teaching and mentorship are also important parts of who I am. I enjoy working with students, helping them build confidence, and creating supportive and inclusive learning spaces.
 
-Outside of academia, I love learning new languages, exploring different cultures, reading everything from finance to fiction. And honestly, nothing recharges me more than a good, uninterrupted sleep. It keeps me grounded, happy, and fully present in both my research and teaching.
-
-Thank you for visiting my website. Please feel free to explore my work and reach out with any inquiries or collaborations.
+I welcome opportunities for research collaboration, academic exchange, and engagement with researchers and practitioners interested in quantitative finance, actuarial science, risk management, and sustainable investment.
