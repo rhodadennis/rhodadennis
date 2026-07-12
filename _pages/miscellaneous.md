@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /miscellaneous/
-title: "Miscellaneous"
+title: "Service & Awards"
 author_profile: true
 ---
 
